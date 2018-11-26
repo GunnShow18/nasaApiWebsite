@@ -1,0 +1,26 @@
+.col-sm-12 {
+  text-align: center;
+}
+.jumbotron {
+  background-image: url("NASAlogo.png");
+  background-color: rgba(124, 124, 124, 0.5);
+  background-size: 150%;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 225px;
+}
+
+body {
+  background-color: white;
+  background-size: 100%;
+}
+
+#shazamButton {
+  border-radius: 1px;
+  border-style: solid;
+}
+
+.container {
+  background-color: rgb(124, 124, 124, 0.1);
+  border-radius: 10px;
+}
